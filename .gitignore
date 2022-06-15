@@ -3,10 +3,6 @@
 *.png
 *.wav
 *.config
-*.webp
-*.svg
 .DS_Store
-*.gif
 *.log
 *.txt
-*.ttf
