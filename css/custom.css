@@ -160,6 +160,9 @@ section, header, footer {
     background: #8febec;
 }
 
+.post-front .button {
+    margin-right: 0px;
+}
 
 footer .content {
     padding-top: 3em;
