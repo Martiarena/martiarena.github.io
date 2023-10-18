@@ -160,6 +160,15 @@ section, header, footer {
     background: #8febec;
 }
 
+.button.site {
+    border-color: #00A8CD;
+    color: #00A8CD;
+}
+.button.site:after {
+    background: #00A8CD;
+}
+
+
 .post-front .button {
     margin-right: 0px;
 }
